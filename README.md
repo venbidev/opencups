@@ -200,3 +200,4 @@ olympiad_bot/
 # opencups
 # opencups
 # opencups
+# opencups
